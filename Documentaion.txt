@@ -1,1 +1,4 @@
+what is React?
+React is a popular, open-source JavaScript library used for building user interfaces (UIs), 
+particularly for single-page applications where you need a fast, interactive user experience.
 
